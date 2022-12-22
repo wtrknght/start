@@ -8,5 +8,4 @@ cd arcadesetup
 bash arcadesetup(arch).sh
 cd ~/start
 git clone romsforretro
-python googlesign.py
 exit 0
